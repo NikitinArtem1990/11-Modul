@@ -1,0 +1,42 @@
+table {
+   
+border: 1px solid rgb(113, 110, 110);
+padding: 0%;
+font-size: 50px;
+width: 100%;
+
+} 
+
+th {
+
+border: 1px solid gray;
+background-color:  rgb(93, 80, 134);
+padding: 0%;
+text-align: center;
+color: rgb(0, 0, 0);
+
+}
+
+td {
+
+border: 1px solid gray;
+padding: 0%;
+font-weight: bolder;
+text-align: center;
+background-color: aliceblue;
+
+}
+
+caption {
+
+font-family: fantasy;
+font-size: xx-large;
+color: rgb(75, 34, 113);
+
+}
+
+body {
+
+background-color: rgb(35, 153, 153);
+
+}
